@@ -1,0 +1,38 @@
+.container{
+    text-align:center;
+}
+body{
+    font-family: Arial, Tahoma, Verdana;
+}
+.wrapper {
+    width:200px;
+    text-align:center;
+}
+
+.phone-description{
+    margin:10px;
+    display:inline-block;
+    border: 2px solid #E0E0E0;
+    text-align:center;
+    padding:10px;
+}
+h1{
+
+    color:#ffcc99;
+}
+.phone-description:hover{
+    border: 2px solid #ff601d;
+    background-color:#ffcc99;
+}
+
+button{
+    color:#ff601d;
+    background-color: #E0E0E0;
+    border-color: #E0E0E0;
+    border-radius:2px;
+}
+
+button:hover {
+    background-color: #ff601d;
+    color:#fff;
+}
