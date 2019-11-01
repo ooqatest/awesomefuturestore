@@ -26,10 +26,11 @@ h1{
 }
 
 button{
-    color:#ff601d;
-    background-color: #E0E0E0;
-    border-color: #E0E0E0;
-    border-radius:2px;
+    color:#fff;
+    background-color: lightblue;
+    border:none;
+    border-radius:5px;
+    padding: 12px 8px;
 }
 
 button:hover {
